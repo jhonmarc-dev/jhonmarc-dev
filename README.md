@@ -83,9 +83,3 @@ I strive for continuous improvement in my craft. Currently, I’m focused on the
 If you're working on an exciting project or just want to collaborate, I’m always eager to connect with like-minded individuals. Let’s build something amazing together!
 
 ---
-
-## 💼 My Work
-
-Feel free to check out my GitHub repositories for some of my latest work and contributions:
-
-[GitHub Repositories](https://github.com/your-username)
