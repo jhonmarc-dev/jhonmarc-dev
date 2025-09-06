@@ -1,60 +1,65 @@
-# 👋 Hi, I'm Jhon Marc C. Bautista
+# 👋 Hi, I'm **Jhon Marc C. Bautista**
 
-I'm a **Full-Stack Developer** with a passion for building robust, scalable, and innovative web applications. I specialize in both front-end and back-end development, leveraging technologies like **JavaScript**, **Node.js**, and **React** to solve real-world problems efficiently.
+As a **Full-Stack Developer**, I specialize in creating efficient, scalable, and elegant web applications. I’m driven by a passion for technology and problem-solving. 
 
-Feel free to explore my profile to learn more about my work, skills, and ongoing projects.
+Feel free to explore my profile to learn more about my experience, skills, and ongoing projects.
 
 ---
 
 ## 🚀 About Me
 
-I'm **Jhon Marc**, a **Full-Stack Developer** from the **Philippines**. I have a deep understanding of both client-side and server-side technologies, with a focus on delivering high-quality, user-centric web applications. My expertise includes:
+I’m **Jhon Marc**, a **Full-Stack Developer** from the **Philippines**. With expertise in both **frontend** and **backend** development, I work to craft seamless and responsive web applications using cutting-edge technologies. My key areas of expertise include:
 
-- **Front-End Development**: Crafting engaging user interfaces with frameworks like **React** and **Tailwind CSS**.
-- **Back-End Development**: Designing and implementing server-side solutions with **Node.js**, **Express.js**, and **SQL/NoSQL** databases.
-- **Problem-Solving**: Developing efficient algorithms and improving software architecture for optimal performance.
+- **Frontend Development**: React, HTML, CSS, and Tailwind CSS to build engaging and responsive user interfaces.
+- **Backend Development**: Node.js, Express.js, and databases (SQL/NoSQL) to create fast, scalable back-end services.
+- **Cloud & DevOps**: Deploying applications on cloud platforms and managing CI/CD pipelines.
 
-When I’m not coding, you’ll find me exploring new technologies, contributing to open-source projects, and constantly refining my skills.
+In my free time, I enjoy **gaming**, contributing to open-source, and keeping up with the latest trends in technology.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-Here’s an overview of the key technologies I work with:
+Here’s a summary of the technologies I use in my work:
 
-- **Languages**: 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/sql-%230E4B75.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Languages & Frameworks**
 
-- **Frontend**:
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
-- **Backend**:
-  ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+### **Frontend**
 
-- **Databases**: 
-  ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-%230E4B75.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- **Tools & Platforms**:
-  ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-  ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+### **Backend**
 
-- **Other**:
-  ![GraphQL](https://img.shields.io/badge/graphql-%236768FF.svg?style=for-the-badge&logo=graphql&logoColor=white) 
-  ![CI/CD](https://img.shields.io/badge/ci%2Fcd-%230B6F31.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+
+### **Databases**
+
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%230E4B75.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Tools & Platforms**
+
+![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+
+### **Other Technologies**
+
+![GraphQL](https://img.shields.io/badge/graphql-%236768FF.svg?style=flat-square&logo=graphql&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/ci%2Fcd-%230B6F31.svg?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
 ## 📫 Get in Touch
 
-I’m always open to new opportunities and collaborations. Here’s how you can connect with me:
+I’m always open to collaborating on exciting projects and discussing technology. Here’s how you can reach me:
 
 - **Email**: [jmbautista.dev@gmail.com](mailto:jmbautista.dev@gmail.com)
 - **Instagram**: [@j.mbsts](https://www.instagram.com/j.mbsts/)
@@ -62,17 +67,25 @@ I’m always open to new opportunities and collaborations. Here’s how you can 
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 What I’m Learning Right Now
 
-I’m committed to continuous growth as a developer. Right now, I’m focused on:
+I strive for continuous improvement in my craft. Currently, I’m focused on the following areas:
 
-- **TypeScript** to improve code maintainability and robustness
-- **GraphQL** for more efficient API design
-- **Cloud Technologies** like AWS and Google Cloud to optimize application scalability
-- **Advanced Algorithms** and **Design Patterns** to enhance problem-solving capabilities
+- **TypeScript** for stronger type safety and better development practices
+- **GraphQL** to build more efficient and flexible APIs
+- **Cloud Technologies** like AWS for scalable application deployments
+- **Design Patterns** and **Algorithms** to become a better problem solver
 
 ---
 
 ## 🚀 Let’s Build Something Great Together!
 
-I’m always excited to collaborate on innovative projects or explore new opportunities. If you have an idea, feel free to reach out—I’d love to connect!
+If you're working on an exciting project or just want to collaborate, I’m always eager to connect with like-minded individuals. Let’s build something amazing together!
+
+---
+
+## 💼 My Work
+
+Feel free to check out my GitHub repositories for some of my latest work and contributions:
+
+[GitHub Repositories](https://github.com/your-username)
